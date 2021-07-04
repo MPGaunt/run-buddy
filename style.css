@@ -122,7 +122,6 @@ header {
   }
 
   .trainers {
-    display: flex; 
     text-align: center;
   }
 
@@ -140,7 +139,7 @@ header {
   }
   
   .trainer-bio {
-    display: content; 
+    display: flex; 
     padding: 35px;
     float: left;
     width: 65%;
