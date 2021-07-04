@@ -146,13 +146,13 @@ header {
   }
 
   .trainer-bio h3 {
-    display: content;
+    display: block;
     font-size: 32px;
     margin-bottom: 8px;
   }
   
   .trainer-bio h4 {
-    display: content;
+    display: block;
     font-weight: lighter;
     font-size: 26px;
     margin-bottom: 25px;
