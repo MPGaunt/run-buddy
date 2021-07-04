@@ -133,7 +133,7 @@ header {
   }
 
   .trainer img {
-    display: grid;
+    display: flex;
     width: 35%;
     float: left;
     overflow: auto 
