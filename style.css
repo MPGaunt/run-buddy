@@ -126,7 +126,7 @@ header {
   }
 
   .trainer {
-    display: content;
+    display: initial; 
     width: 900px;
     margin: 0 auto 30px auto;
     background: #02496e;
@@ -140,7 +140,7 @@ header {
   }
   
   .trainer-bio {
-    display: block; 
+    display: initial; 
     padding: 35px;
     float: left;
     width: 65%;
@@ -153,7 +153,7 @@ header {
   }
   
   .trainer-bio h4 {
-    display: block;
+    display: initial;
     font-weight: lighter;
     font-size: 26px;
     margin-bottom: 25px;
