@@ -126,6 +126,7 @@ header {
   }
 
   .trainer {
+    display: content;
     width: 900px;
     margin: 0 auto 30px auto;
     background: #02496e;
