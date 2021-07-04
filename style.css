@@ -139,7 +139,7 @@ header {
   }
   
   .trainer-bio {
-    display: flex; 
+    display: block; 
     padding: 35px;
     float: left;
     width: 65%;
