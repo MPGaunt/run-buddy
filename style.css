@@ -134,6 +134,7 @@ header {
   }
 
   .trainer img {
+    display: content;
     width: 35%;
     float: left;
   }
