@@ -134,7 +134,7 @@ header {
   }
 
   .trainer img {
-    display: content;
+    display: inline-block;
     width: 35%;
     float: left;
     overflow: auto 
