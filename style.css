@@ -9,7 +9,6 @@
   }
 
   body {
-    /* more on this crazy alphanumerical value in a minute! */
     color: #39a6b2;
     font-family: Helvetica, Arial, sans-serif;
   }
@@ -238,8 +237,7 @@ header {
     border: none;
     padding: 10px 20px;
     font-size: 16px;
-  }
-  /* HERO STYLES END */
+}
   /* Hero Style End */
 
   section {
