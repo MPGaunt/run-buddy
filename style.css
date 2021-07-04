@@ -125,8 +125,7 @@ header {
     text-align: center;
   }
 
-  .trainer {
-    display: initial; 
+  .trainer { 
     width: 900px;
     margin: 0 auto 30px auto;
     background: #02496e;
@@ -134,7 +133,7 @@ header {
   }
 
   .trainer img {
-    display: inline-block;
+    display: run-in;
     width: 35%;
     float: left;
     overflow: auto 
