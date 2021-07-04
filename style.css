@@ -130,13 +130,12 @@ header {
     margin: 0 auto 30px auto;
     background: #02496e;
     color: #fce138;
+    overflow: auto
   }
 
   .trainer img {
-    display: flex;
     width: 35%;
     float: left;
-    overflow: auto 
   }
   
   .trainer-bio {
